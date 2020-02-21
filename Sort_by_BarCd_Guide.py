@@ -4,7 +4,7 @@ class clsSortByBarCdGuide():
 
     def __init__(self):
         ############### start to set env ################
-        # 파일 경로
+        # FILE PATH
         # FASTQ_PATH = "D:/000_WORK/KimNahye/20200212/genomic_500ng.extendedFrags.fastq"
         # FASTQ_PATH = "D:/000_WORK/KimNahye/20200212/genomic 500ng/genomic_500.extendedFrags_quater.fastq"
         FASTQ_PATH = "D:/000_WORK/KimNahye/20200212/genomic 500ng/genomic_500.extendedFrags.fastq"

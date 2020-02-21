@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44727dda-71a4-447c-b910-c079ac7204b5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XmCCQRbQLO5XqUeJVHyvAslMrq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sort_by_BarCd_Guide" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sort_by_BarCd_Guide" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44727dda-71a4-447c-b910-c079ac7204b5" name="Default Changelist" comment="" />
+      <created>1581641754558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581641754558</updated>
+      <workItem from="1581641761732" duration="1128000" />
+      <workItem from="1581658291976" duration="18042000" />
+      <workItem from="1581897923153" duration="11445000" />
+      <workItem from="1581929153562" duration="8945000" />
+      <workItem from="1581981869063" duration="608000" />
+      <workItem from="1581984121530" duration="2240000" />
+      <workItem from="1582069122694" duration="14751000" />
+      <workItem from="1582154020040" duration="4982000" />
+      <workItem from="1582240688962" duration="12522000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="772" y="430" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1581677875226">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="772" y="430" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1858.1080/1920.-384.1080.1890@0.0.1858.1080" timestamp="1581677875226" />
+    <state x="2239" y="303" key="FileChooserDialogImpl" timestamp="1581663764450">
+      <screen x="1920" y="-384" width="1080" height="1890" />
+    </state>
+    <state x="2239" y="303" key="FileChooserDialogImpl/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1581663764450" />
+    <state width="975" height="495" key="GridCell.Tab.0.bottom" timestamp="1582276104002">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state width="1815" height="469" key="GridCell.Tab.0.bottom/0.0.1858.1080/1920.-384.1080.1890@0.0.1858.1080" timestamp="1581678608877" />
+    <state width="1052" height="824" key="GridCell.Tab.0.bottom/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1582163300132" />
+    <state width="975" height="495" key="GridCell.Tab.0.bottom/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1582276104002" />
+    <state width="975" height="495" key="GridCell.Tab.0.center" timestamp="1582276104001">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state width="1815" height="469" key="GridCell.Tab.0.center/0.0.1858.1080/1920.-384.1080.1890@0.0.1858.1080" timestamp="1581678608877" />
+    <state width="1052" height="824" key="GridCell.Tab.0.center/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1582163300132" />
+    <state width="975" height="495" key="GridCell.Tab.0.center/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1582276104001" />
+    <state width="975" height="495" key="GridCell.Tab.0.left" timestamp="1582276104001">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state width="1815" height="469" key="GridCell.Tab.0.left/0.0.1858.1080/1920.-384.1080.1890@0.0.1858.1080" timestamp="1581678608876" />
+    <state width="1052" height="824" key="GridCell.Tab.0.left/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1582163300132" />
+    <state width="975" height="495" key="GridCell.Tab.0.left/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1582276104001" />
+    <state width="975" height="495" key="GridCell.Tab.0.right" timestamp="1582276104002">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state width="1815" height="469" key="GridCell.Tab.0.right/0.0.1858.1080/1920.-384.1080.1890@0.0.1858.1080" timestamp="1581678608877" />
+    <state width="1052" height="824" key="GridCell.Tab.0.right/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1582163300132" />
+    <state width="975" height="495" key="GridCell.Tab.0.right/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1582276104002" />
+    <state width="975" height="536" key="GridCell.Tab.1.bottom" timestamp="1582268066110">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state width="1815" height="469" key="GridCell.Tab.1.bottom/0.0.1858.1080/1920.-384.1080.1890@0.0.1858.1080" timestamp="1581678608877" />
+    <state width="1052" height="532" key="GridCell.Tab.1.bottom/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1582163275382" />
+    <state width="975" height="536" key="GridCell.Tab.1.bottom/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1582268066110" />
+    <state width="975" height="536" key="GridCell.Tab.1.center" timestamp="1582268066110">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state width="1815" height="469" key="GridCell.Tab.1.center/0.0.1858.1080/1920.-384.1080.1890@0.0.1858.1080" timestamp="1581678608877" />
+    <state width="1052" height="532" key="GridCell.Tab.1.center/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1582163275382" />
+    <state width="975" height="536" key="GridCell.Tab.1.center/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1582268066110" />
+    <state width="975" height="536" key="GridCell.Tab.1.left" timestamp="1582268066110">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state width="1815" height="469" key="GridCell.Tab.1.left/0.0.1858.1080/1920.-384.1080.1890@0.0.1858.1080" timestamp="1581678608877" />
+    <state width="1052" height="532" key="GridCell.Tab.1.left/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1582163275382" />
+    <state width="975" height="536" key="GridCell.Tab.1.left/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1582268066110" />
+    <state width="975" height="536" key="GridCell.Tab.1.right" timestamp="1582268066110">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state width="1815" height="469" key="GridCell.Tab.1.right/0.0.1858.1080/1920.-384.1080.1890@0.0.1858.1080" timestamp="1581678608877" />
+    <state width="1052" height="532" key="GridCell.Tab.1.right/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1582163275382" />
+    <state width="975" height="536" key="GridCell.Tab.1.right/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1582268066110" />
+    <state x="2002" y="182" key="SettingsEditor" timestamp="1582244551569">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state x="1961" y="203" key="SettingsEditor/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1581658411270" />
+    <state x="2002" y="182" key="SettingsEditor/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1582244551569" />
+    <state x="2201" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1582240690706">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state x="2152" y="385" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1582069125968" />
+    <state x="2201" y="367" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1582240690706" />
+    <state x="983" y="34" width="872" height="1166" key="dock-window-1" timestamp="1582266892189">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="983" y="34" width="872" height="1166" key="dock-window-1/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1582266892189" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="len(guide_str)==j" language="Python" />
+        <watch expression="len(tmpStr)" language="Python" />
+        <watch expression="sliced_str[i + len(brcd_rule) : i + len(brcd_rule) + BARCODE_LEN]" language="Python" />
+        <watch expression="key in result_dict.keys()" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Sort_by_BarCd_Guide$test.coverage" NAME="test Coverage Results" MODIFIED="1582268066083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sort_by_BarCd_Guide$Main.coverage" NAME="Main Coverage Results" MODIFIED="1582276103989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

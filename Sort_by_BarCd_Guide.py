@@ -7,7 +7,14 @@ class clsSortByBarCdGuide():
         # FILE PATH
         # FASTQ_PATH = "D:/000_WORK/KimNahye/20200212/genomic_500ng.extendedFrags.fastq"
         # FASTQ_PATH = "D:/000_WORK/KimNahye/20200212/genomic 500ng/genomic_500.extendedFrags_quater.fastq"
-        FASTQ_PATH = "D:/000_WORK/KimNahye/20200212/genomic 500ng/genomic_500.extendedFrags.fastq"
+        FASTQ_PATH = [
+            "D:/000_WORK/KimNahye/20200302/200302_PCR switching_hi-seq/2.extendedFrags.fastq",
+            "D:/000_WORK/KimNahye/20200302/200302_PCR switching_hi-seq/3.extendedFrags.fastq",
+            "D:/000_WORK/KimNahye/20200302/200302_PCR switching_hi-seq/5.extendedFrags.fastq",
+            "D:/000_WORK/KimNahye/20200302/200302_PCR switching_hi-seq/6.extendedFrags.fastq",
+            "D:/000_WORK/KimNahye/20200302/200302_PCR switching_hi-seq/7.extendedFrags.fastq",
+            "D:/000_WORK/KimNahye/20200302/200302_PCR switching_hi-seq/8.extendedFrags.fastq"
+            ]
         # FASTQ_PATH = "D:/000_WORK/KimNahye/20200212/genomic 500ng/test6_PAM_2.txt"
         BARCODE_PATH = "D:/000_WORK/KimNahye/20200212/barcode.xlsx"
 
@@ -172,18 +179,22 @@ class clsSortByBarCdGuide():
         dict_object : { INDEX : { Barcode : { guide_seq : [ raw_str ... ] } } }  
     """
     def checkFASTQ(self, barcode_dict):
-        with open(self.FASTQ_PATH) as Fastq1:
-            result_dict = {}
-            null_dict = {}
-            for i, rawStr in enumerate(Fastq1):
-                i = i + 1
-                rawStr = rawStr.replace('\n', '').upper()
-                if i % 4 == 2:
-                    guide_str = self.checkGuideSeq(rawStr)
-                    for j in self.BP_NUM:
-                        if len(guide_str) == j:
-                            result_dict = self.checkBcdSeq(barcode_dict, result_dict, rawStr,guide_str)
-                        else:
-                            null_dict = self.checkBcdSeq(barcode_dict, null_dict, rawStr, guide_str)
-            return result_dict, null_dict
+        result_dict = {}
+        null_dict = {}
+        for path in self.FASTQ_PATH:
+            print(path)
+            with open(path) as Fastq1:
+                for i, rawStr in enumerate(Fastq1):
+                    i = i + 1
+                    rawStr = rawStr.replace('\n', '').upper()
+                    if i % 4 == 2:
+                        guide_str = self.checkGuideSeq(rawStr)
+                        for j in self.BP_NUM:
+                            if len(guide_str) == j:
+                                result_dict = self.checkBcdSeq(barcode_dict, result_dict, rawStr,guide_str)
+                            else:
+                                null_dict = self.checkBcdSeq(barcode_dict, null_dict, rawStr, guide_str)
+        return result_dict, null_dict
+
+
 

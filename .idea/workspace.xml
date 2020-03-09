@@ -121,7 +121,10 @@
       <workItem from="1583192670224" duration="3057000" />
       <workItem from="1583202886643" duration="877000" />
       <workItem from="1583211508960" duration="4563000" />
-      <workItem from="1583370332111" duration="853000" />
+      <workItem from="1583370332111" duration="4600000" />
+      <workItem from="1583452614713" duration="843000" />
+      <workItem from="1583468059764" duration="3965000" />
+      <workItem from="1583721916859" duration="1940000" />
     </task>
     <servers />
   </component>
@@ -191,15 +194,16 @@
     </state>
     <state x="1961" y="203" key="SettingsEditor/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1581658411270" />
     <state x="2002" y="182" key="SettingsEditor/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583197118867" />
-    <state x="2201" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1583202888512">
-      <screen x="1982" y="-414" width="1018" height="1920" />
-    </state>
-    <state x="2152" y="385" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1582069125968" />
-    <state x="400" y="439" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/1982.-414.1018.1920@0.0.1858.1080" timestamp="1582589045183" />
-    <state x="2201" y="367" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583202888512" />
-    <state x="983" y="34" width="872" height="1166" key="dock-window-1" timestamp="1582266892189">
+    <state x="400" y="439" key="com.intellij.ide.util.TipDialog" timestamp="1583452845011">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
+    <state x="2152" y="385" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1582069125968" />
+    <state x="400" y="439" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/1982.-414.1018.1920@0.0.1858.1080" timestamp="1583452845011" />
+    <state x="2201" y="367" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583202888512" />
+    <state x="1982" y="-414" width="1034" height="1104" maximized="true" key="dock-window-1" timestamp="1583724268966">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state x="1982" y="-414" width="1034" height="1104" maximized="true" key="dock-window-1/0.0.1858.1080/1982.-414.1018.1920@0.0.1858.1080" timestamp="1583724268966" />
     <state x="983" y="34" width="872" height="1166" key="dock-window-1/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1582266892189" />
   </component>
   <component name="XDebuggerManager">

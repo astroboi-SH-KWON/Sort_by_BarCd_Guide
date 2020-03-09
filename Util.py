@@ -1,15 +1,11 @@
 import openpyxl
 from time import clock
 
-class clsUtil():
-    def __init__(self,result):
-        # result file path
-        RESULT_PATH = "D:/000_WORK/KimNahye/20200302/Gen_10ng"
-        RESULT_EXT = ".xlsx"
-
-        self.RESULT_PATH = RESULT_PATH
-        self.RESULT_EXT = RESULT_EXT
-        self.result = result
+class clsUtil:
+    def __init__(self,prefix):
+        self.result_path = prefix[0]
+        self.ext = ".xlsx"
+        self.result = prefix[1]
 
     """
     make_excel : make dictionary data to excel file
@@ -52,4 +48,4 @@ class clsUtil():
                     row = row + 1
 
 
-        workbook.save(filename=self.RESULT_PATH + str(clock()) + self.RESULT_EXT)
+        workbook.save(filename=self.result_path + str(clock()) + self.ext)

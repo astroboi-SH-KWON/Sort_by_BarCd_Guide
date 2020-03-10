@@ -1,7 +1,7 @@
 import openpyxl
 from time import clock
 
-class clsUtil:
+class Utils:
     def __init__(self,prefix):
         self.result_path = prefix[0]
         self.ext = ".xlsx"

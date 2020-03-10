@@ -1,6 +1,6 @@
 from time import clock
 
-from Util import clsUtil
+from Utils import Utils
 from Process import SortByBarCdGuide
 
 ############### start to set env ################
@@ -56,7 +56,7 @@ def Main():
     barcode_dict = srtByBcdGd.getIndexBarcode()
     # get sorted data from FASTQ
     for tmp_dict in srtByBcdGd.checkFASTQ(barcode_dict):
-        util = clsUtil([RESULT_PATH , tmp_dict])
+        util = Utils([RESULT_PATH , tmp_dict])
         util.make_excel()
 
 

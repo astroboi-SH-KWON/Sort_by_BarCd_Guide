@@ -2,7 +2,6 @@ from time import clock
 
 from Utils import Utils
 from Process import SortByBarCdGuide
-
 ############### start to set env ################
 # FILE PATH
 # FASTQ_PATH = "D:/000_WORK/KimNahye/20200212/genomic_500ng.extendedFrags.fastq"

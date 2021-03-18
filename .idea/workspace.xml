@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44727dda-71a4-447c-b910-c079ac7204b5" name="Default Changelist" comment="" />
+    <list default="true" id="44727dda-71a4-447c-b910-c079ac7204b5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +23,13 @@
   <component name="ProjectId" id="1XmCCQRbQLO5XqUeJVHyvAslMrq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.Main">
@@ -80,18 +84,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -126,7 +119,13 @@
       <workItem from="1583468059764" duration="3965000" />
       <workItem from="1583721916859" duration="1940000" />
       <workItem from="1583738840754" duration="630000" />
-      <workItem from="1583799185549" duration="403000" />
+      <workItem from="1583799185549" duration="2320000" />
+      <workItem from="1583834885577" duration="615000" />
+      <workItem from="1583883265391" duration="9000" />
+      <workItem from="1583909414556" duration="607000" />
+      <workItem from="1584320544317" duration="2548000" />
+      <workItem from="1584594060053" duration="764000" />
+      <workItem from="1585529508164" duration="2865000" />
     </task>
     <servers />
   </component>
@@ -134,79 +133,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="772" y="430" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1581677875226">
+    <state x="436" y="185" key="SettingsEditor" timestamp="1616048165165">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="772" y="430" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1858.1080/1920.-384.1080.1890@0.0.1858.1080" timestamp="1581677875226" />
-    <state x="2283" y="284" key="FileChooserDialogImpl" timestamp="1582520445934">
-      <screen x="1982" y="-414" width="1018" height="1920" />
-    </state>
-    <state x="2239" y="303" key="FileChooserDialogImpl/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1581663764450" />
-    <state x="2283" y="284" key="FileChooserDialogImpl/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1582520445934" />
-    <state width="975" height="495" key="GridCell.Tab.0.bottom" timestamp="1583279850134">
-      <screen x="1982" y="-414" width="1018" height="1920" />
-    </state>
-    <state width="1815" height="469" key="GridCell.Tab.0.bottom/0.0.1858.1080/1920.-384.1080.1890@0.0.1858.1080" timestamp="1581678608877" />
-    <state width="1052" height="824" key="GridCell.Tab.0.bottom/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1582163300132" />
-    <state width="975" height="495" key="GridCell.Tab.0.bottom/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583279850134" />
-    <state width="975" height="495" key="GridCell.Tab.0.center" timestamp="1583279850134">
-      <screen x="1982" y="-414" width="1018" height="1920" />
-    </state>
-    <state width="1815" height="469" key="GridCell.Tab.0.center/0.0.1858.1080/1920.-384.1080.1890@0.0.1858.1080" timestamp="1581678608877" />
-    <state width="1052" height="824" key="GridCell.Tab.0.center/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1582163300132" />
-    <state width="975" height="495" key="GridCell.Tab.0.center/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583279850134" />
-    <state width="975" height="495" key="GridCell.Tab.0.left" timestamp="1583279850134">
-      <screen x="1982" y="-414" width="1018" height="1920" />
-    </state>
-    <state width="1815" height="469" key="GridCell.Tab.0.left/0.0.1858.1080/1920.-384.1080.1890@0.0.1858.1080" timestamp="1581678608876" />
-    <state width="1052" height="824" key="GridCell.Tab.0.left/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1582163300132" />
-    <state width="975" height="495" key="GridCell.Tab.0.left/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583279850134" />
-    <state width="975" height="495" key="GridCell.Tab.0.right" timestamp="1583279850134">
-      <screen x="1982" y="-414" width="1018" height="1920" />
-    </state>
-    <state width="1815" height="469" key="GridCell.Tab.0.right/0.0.1858.1080/1920.-384.1080.1890@0.0.1858.1080" timestamp="1581678608877" />
-    <state width="1052" height="824" key="GridCell.Tab.0.right/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1582163300132" />
-    <state width="975" height="495" key="GridCell.Tab.0.right/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583279850134" />
-    <state width="975" height="536" key="GridCell.Tab.1.bottom" timestamp="1582276998690">
-      <screen x="1982" y="-414" width="1018" height="1920" />
-    </state>
-    <state width="1815" height="469" key="GridCell.Tab.1.bottom/0.0.1858.1080/1920.-384.1080.1890@0.0.1858.1080" timestamp="1581678608877" />
-    <state width="1052" height="532" key="GridCell.Tab.1.bottom/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1582163275382" />
-    <state width="975" height="536" key="GridCell.Tab.1.bottom/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1582276998690" />
-    <state width="975" height="536" key="GridCell.Tab.1.center" timestamp="1582276998690">
-      <screen x="1982" y="-414" width="1018" height="1920" />
-    </state>
-    <state width="1815" height="469" key="GridCell.Tab.1.center/0.0.1858.1080/1920.-384.1080.1890@0.0.1858.1080" timestamp="1581678608877" />
-    <state width="1052" height="532" key="GridCell.Tab.1.center/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1582163275382" />
-    <state width="975" height="536" key="GridCell.Tab.1.center/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1582276998690" />
-    <state width="975" height="536" key="GridCell.Tab.1.left" timestamp="1582276998690">
-      <screen x="1982" y="-414" width="1018" height="1920" />
-    </state>
-    <state width="1815" height="469" key="GridCell.Tab.1.left/0.0.1858.1080/1920.-384.1080.1890@0.0.1858.1080" timestamp="1581678608877" />
-    <state width="1052" height="532" key="GridCell.Tab.1.left/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1582163275382" />
-    <state width="975" height="536" key="GridCell.Tab.1.left/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1582276998690" />
-    <state width="975" height="536" key="GridCell.Tab.1.right" timestamp="1582276998690">
-      <screen x="1982" y="-414" width="1018" height="1920" />
-    </state>
-    <state width="1815" height="469" key="GridCell.Tab.1.right/0.0.1858.1080/1920.-384.1080.1890@0.0.1858.1080" timestamp="1581678608877" />
-    <state width="1052" height="532" key="GridCell.Tab.1.right/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1582163275382" />
-    <state width="975" height="536" key="GridCell.Tab.1.right/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1582276998690" />
-    <state x="2002" y="182" key="SettingsEditor" timestamp="1583197118867">
-      <screen x="1982" y="-414" width="1018" height="1920" />
-    </state>
-    <state x="1961" y="203" key="SettingsEditor/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1581658411270" />
-    <state x="2002" y="182" key="SettingsEditor/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583197118867" />
-    <state x="400" y="439" key="com.intellij.ide.util.TipDialog" timestamp="1583799220987">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="2152" y="385" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/1920.-384.1080.1890@1920.-384.1080.1890" timestamp="1582069125968" />
-    <state x="400" y="439" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/1982.-414.1018.1920@0.0.1858.1080" timestamp="1583799220987" />
-    <state x="2201" y="367" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583202888512" />
-    <state x="1982" y="-414" width="1034" height="1104" maximized="true" key="dock-window-1" timestamp="1583724268966">
-      <screen x="1982" y="-414" width="1018" height="1920" />
-    </state>
-    <state x="1982" y="-414" width="1034" height="1104" maximized="true" key="dock-window-1/0.0.1858.1080/1982.-414.1018.1920@0.0.1858.1080" timestamp="1583724268966" />
-    <state x="983" y="34" width="872" height="1166" key="dock-window-1/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1582266892189" />
+    <state x="436" y="185" key="SettingsEditor/0.0.1858.1080/1920.-155.1080.1890@0.0.1858.1080" timestamp="1616048165165" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -217,9 +147,5 @@
         <watch expression="key in result_dict.keys()" language="Python" />
       </configuration>
     </watches-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Sort_by_BarCd_Guide$test.coverage" NAME="test Coverage Results" MODIFIED="1582268066083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Sort_by_BarCd_Guide$Main.coverage" NAME="Main Coverage Results" MODIFIED="1583217460130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

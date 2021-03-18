@@ -49,7 +49,7 @@ RESULT_PATH = "D:/000_WORK/KimNahye/20200302/Gen_10ng"
 
 
 
-def Main():
+def main():
     srtByBcdGd = SortByBarCdGuide(PREFIX)
     # get INDEX and Barcode data as dictionary
     barcode_dict = srtByBcdGd.getIndexBarcode()
@@ -61,5 +61,5 @@ def Main():
 
 start_time = clock()
 print("start>>>>>>>>>>>>>>>>>>")
-Main()
+main()
 print("::::::::::: %.2f seconds ::::::::::::::" % (clock() - start_time))

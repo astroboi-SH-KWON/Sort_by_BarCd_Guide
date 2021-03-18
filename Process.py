@@ -153,7 +153,7 @@ class SortByBarCdGuide:
             print(path)
             with open(path) as Fastq1:
                 i = 0
-                for rawStr in enumerate(Fastq1):
+                for _, rawStr in enumerate(Fastq1):
                     i = i + 1
                     rawStr = rawStr.replace('\n', '').upper()
                     if i % 4 == 2:

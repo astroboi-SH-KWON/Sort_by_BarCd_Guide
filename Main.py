@@ -47,15 +47,13 @@ RESULT_PATH = "D:/000_WORK/KimNahye/20200302/Gen_10ng"
 ############### end setting env ################
 
 
-
-
 def main():
     srtByBcdGd = SortByBarCdGuide(PREFIX)
     # get INDEX and Barcode data as dictionary
     barcode_dict = srtByBcdGd.getIndexBarcode()
     # get sorted data from FASTQ
     for tmp_dict in srtByBcdGd.checkFASTQ(barcode_dict):
-        util = Utils([RESULT_PATH , tmp_dict])
+        util = Utils([RESULT_PATH, tmp_dict])
         util.make_excel()
 
 

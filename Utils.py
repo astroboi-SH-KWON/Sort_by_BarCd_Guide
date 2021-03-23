@@ -47,5 +47,4 @@ class Utils:
                     sheet.cell(row=row, column=4, value=len(val))
                     row = row + 1
 
-
         workbook.save(filename=self.result_path + str(clock()) + self.ext)

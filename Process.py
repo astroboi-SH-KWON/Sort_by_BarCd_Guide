@@ -160,7 +160,7 @@ class SortByBarCdGuide:
                         guide_str = self.checkGuideSeq(rawStr)
                         for j in self.bp_num:
                             if len(guide_str) == j:
-                                result_dict = self.checkBcdSeq(barcode_dict, result_dict, rawStr,guide_str)
+                                result_dict = self.checkBcdSeq(barcode_dict, result_dict, rawStr, guide_str)
                             else:
                                 null_dict = self.checkBcdSeq(barcode_dict, null_dict, rawStr, guide_str)
         return result_dict, null_dict
